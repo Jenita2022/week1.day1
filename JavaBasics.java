@@ -2,7 +2,7 @@ package week1.day1;
 
 public class JavaBasics {
 	 
-	
+	//Learning changes in repository
 	public static void main(String[] args) {
 		//Print Fibonacci series 0,1,1,2,3,5,8,13...
 		int firstNo = 0;
